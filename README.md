@@ -1,11 +1,10 @@
 # NT Review
 #### Video Demo:  <URL HERE>
 #### Description:
-After a while, I decided to create a website, not only for the final project but also for myself and everyone else. 
 
 I love books. They have the ability to capture everything, yes, everything, such as our five senses. A book can make you hungry, can make you feel the waves in the ocean, can make you hear the beautiful sound of the jungle, can make you smell the scent of Christmas, and can make you see a whole new world in front of you—until you realize that you are in the kitchen at that moment. 
 
-I love computer science and books, so I want to do something that can combine them both. That is why I chose to create a website—a book review website. 
+I love computer science and books, so I want to do something that can combine them both. That is why I chose to create a website, a book review website. 
 
 So to summarize, this website has 5 pages: the homepage, about, reviews, authors, and finally contacts. 
 
@@ -19,4 +18,4 @@ Authors: A list of authors is provided so that you can easily determine whether 
 
 Contact: So you can reach out to me if you have any problems. 
 
-That's basically everything I want to say about my website. I'm very proud of it. I plan to publish it in the future, but in the meantime, I'll work on it until it's perfect.
+That's basically everything I want to say about my website. Hopw you enjoy looking at my reviews!
